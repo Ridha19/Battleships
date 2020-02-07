@@ -14,6 +14,7 @@ Instructions for compiling and running
 4. In two or more other terminals, open two or more clients by running:
 
         java -classpath src view.MatchRoomView
+        
 
 
 Configuration
